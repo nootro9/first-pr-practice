@@ -23,4 +23,4 @@ celsius_to_fahrenheit(100)  # 212.0
 python -m unittest discover -s tests -t .
 ```
 
-This project is intentionally simple — it exists to recieve small, safe first contributions like typo fixes or a missing test.
+This project is intentionally simple — it exists to receive small, safe first contributions like typo fixes or a missing test.
